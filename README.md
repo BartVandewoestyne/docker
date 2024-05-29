@@ -14,3 +14,5 @@ If you have Docker networks that interfere with your local networks, you can con
  ]
 }
 ```
+
+## Best practices
